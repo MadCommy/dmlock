@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ssh $1 ~/.local/bin/lock
+
